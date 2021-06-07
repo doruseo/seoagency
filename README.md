@@ -11,6 +11,8 @@
  <a href="https://github.com/doruseo/display-fridge">display-fridge</a>
  <a href="https://github.com/doruseo/eco-fridge">eco-fridge</a>
  <a href="https://github.com/doruseo/Hizzard">Hizzard</a>
+  <a href="https://github.com/doruseo/LSD">LSD</a>
+ <a href="https://github.com/doruseo/Spirit-Store ">Spirit-Store </a>
  
  <a href="https://www.blogger.com/profile/11831765566850741651"> Click Here </a>
 <a href="https://www.blogger.com/profile/08502301141723864223"> Click Here </a>
